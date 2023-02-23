@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- This web.xml file is not required when using Servlet 3.0 container,
+     see implementation details http://jersey.java.net/nonav/documentation/latest/jax-rs.html -->
+<web-app version="5.0"
+         xmlns="https://jakarta.ee/xml/ns/jakartaee"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="https://jakarta.ee/xml/ns/jakartaee https://jakarta.ee/xml/ns/jakartaee/web-app_5_0.xsd">
+
+  <display-name>Archetype Created Web Application</display-name>
+  
+  
+  
+</web-app>
