@@ -20,7 +20,7 @@ If an application uses MDC (org.slf4j.MDC), it fails.
 2. Install Payara6 2023-2
 3. asadmin start-domain
 4. Build the test application
-5. Depoy the test application to Payara's autodeploy folder (domain1)
+5. Deploy the test application to Payara's autodeploy folder (domain1)
 6. Execute this command:
 
     ```sh
